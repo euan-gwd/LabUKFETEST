@@ -1,0 +1,19 @@
+{
+    "title": "LabUK Tech text",
+    "name": "labuk_prac_test",
+    "version": "1.0.0-alpha",
+    "description": "Front End Test for LabUK",
+    "scripts": {
+        "start": "gulp dev",
+        "build": "gulp"
+    },
+    "devDependencies": {
+        "browser-sync": "^2.18.8",
+        "gulp": "^3.9.1"
+    },
+    "dependencies": {
+        "bootstrap": "^3.3.7",
+        "jquery": "^3.2.1",
+        "jquery-validation": "^1.16.0"
+    }
+}
